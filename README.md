@@ -28,7 +28,3 @@ Copyright (c) 2012, 2013 [Joel Purra](http://joelpurra.com/)
 All rights reserved.
 
 When using AutoCleanCallback-Canada, comply to at least one of the three available licenses: BSD, MIT, GPL. Please see the `LICENSE` file for details.
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joelpurra/autocleancallback-canada/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
