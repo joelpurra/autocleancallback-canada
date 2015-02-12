@@ -24,7 +24,7 @@ In your HTML form, mark all phone number fields with `type="tel"`, and all posta
 
 
 ## License
-Copyright (c) 2012, 2013 [Joel Purra](http://joelpurra.com/)
+Copyright (c) 2012, 2013, 2014, 2015 [Joel Purra](http://joelpurra.com/)
 All rights reserved.
 
 When using AutoCleanCallback-Canada, comply to at least one of the three available licenses: BSD, MIT, GPL. Please see the `LICENSE` file for details.
