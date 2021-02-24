@@ -1,6 +1,6 @@
 /*!
  * @license AutoCleanCallback-Canada
- * Copyright (c) 2012, 2013 Joel Purra <http://joelpurra.com/>
+ * Copyright (c) 2012, 2013 Joel Purra <https://joelpurra.com/>
  * Released under MIT, BSD and GPL license. Comply with at least one.
  *
  * https://github.com/joelpurra/autocleancallback-canada
@@ -21,7 +21,7 @@
 
             debug.log(".autoCleanNorthAmericanPhoneNumber($input)", $input);
 
-            // From http://blog.stevenlevithan.com/archives/validate-phone-number
+            // From https://blog.stevenlevithan.com/archives/validate-phone-number
             var phoneNumberUnformatted = /^\(?([0-9]{3})\)?[\-. ]?([0-9]{3})[\-. ]?([0-9]{4})$/,
                 replaceWithFormatted = "($1) $2-$3";
 
