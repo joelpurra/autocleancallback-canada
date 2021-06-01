@@ -4,6 +4,12 @@ Canadian extensions to [AutoCleanCallback](https://joelpurra.com/projects/autocl
 
 
 
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Usage
 
 Include the script after jQuery and AutoCleanCallback has been loaded.
